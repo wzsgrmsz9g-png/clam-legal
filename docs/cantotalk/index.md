@@ -6,35 +6,33 @@ permalink: /cantotalk/
 
 # CantoTalk — Privacy Policy
 
-**Effective date:** 7 October 2026  
-**Contact:** support@clam.app (placeholder — replace with your public support address before App Store submission)
+**Effective date:** 8 October 2026  
+**Contact:** support@clam.app
 
 ## What CantoTalk is
-CantoTalk helps you practise everyday Hong Kong Cantonese on iPhone and iPad. Offline lessons, listening drills and self-recording work without an account.
+CantoTalk helps you practise everyday Hong Kong Cantonese on iPhone and iPad. Version 1.0 is offline: lessons, listening drills and self-recording work without an account and without contacting the network.
 
 ## Data on your device
 - Lesson completion, review progress and practice self-checks (UserDefaults)
-- Temporary microphone recordings while you practise — removed when you leave the practice screen or background the app (iOS may clean leftover temp files after an abrupt termination)
+- Temporary microphone recordings while you practise — stored only on this device and removed when you leave the practice screen or background the app (iOS may clean leftover temp files after an abrupt termination)
 
-## Microphone
-Permission is requested only when you tap Record. Recordings are not uploaded.
+CantoTalk does not collect personal data, does not create accounts, and does not upload progress or recordings.
 
-## Optional live AI partner (off by default)
-A text conversation client exists but stays inactive until a secure HTTPS endpoint is configured. Enabling it requires explicit consent to share conversation text with the configured provider. Audio is never sent by that client. Privacy labels and this policy must be updated before any distributed build turns the partner on.
+## Audio and microphone
+Text-to-speech uses Apple’s on-device **AVSpeechSynthesizer**. When you tap Record, the app uses **AVAudioRecorder** to capture audio locally so you can listen back. Recordings stay on the device and are not uploaded. Microphone permission is requested only when you record.
 
-## Tracking and ads
-CantoTalk does not track you across apps or websites, does not show ads, and does not use advertising identifiers in the current offline build.
+## Network, SDKs and tracking
+The shipping 1.0 build does not make network calls for lessons, practice or progress. It does not include analytics, advertising or other third-party SDKs. CantoTalk does not track you across apps or websites and does not use advertising identifiers.
 
 ## Children
 Not directed at children under 13.
 
 ## Your choices
 - Deny microphone access in iOS Settings
-- Delete the app to remove on-device progress
-- Do not enable the live partner if you do not want text shared
+- Delete the app to remove on-device progress and any leftover local recordings
 
 ## Contact
-Use the in-app Support link or email the address above.
+Questions: use the in-app Support link or email support@clam.app.
 
 ## Support
 See [Support](../support/) for contact details.
