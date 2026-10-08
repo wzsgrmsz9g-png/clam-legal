@@ -6,9 +6,9 @@ permalink: /support/
 
 # Support
 
-**Email (placeholder):** support@clam.app
+**Email:** [support@clam.app](mailto:support@clam.app)
 
-This address is a temporary placeholder until a public support inbox is confirmed. Replace it before App Store submission if a different address is used.
+This is the public support address for all Clam apps. Please name the app in the subject line so we can help faster.
 
 ## Apps
 

@@ -15,6 +15,6 @@ Public privacy policies and support information for Clam apps.
 
 ## Support
 
-Email (placeholder until a public inbox is confirmed): **support@clam.app**
+Email: **[support@clam.app](mailto:support@clam.app)**
 
 See each app’s privacy page for product-specific details.

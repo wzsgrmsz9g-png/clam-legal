@@ -14,7 +14,7 @@ CantoTalk helps you practise everyday Hong Kong Cantonese on iPhone and iPad. Ve
 
 ## Data on your device
 - Lesson completion, review progress and practice self-checks (UserDefaults)
-- Temporary microphone recordings while you practise — stored only on this device and removed when you leave the practice screen or background the app (iOS may clean leftover temp files after an abrupt termination)
+- Short-lived microphone recordings while you practise — stored only on this device and removed when you leave the practice screen or background the app (iOS may clean leftover temp files after an abrupt termination)
 
 CantoTalk does not collect personal data, does not create accounts, and does not upload progress or recordings.
 

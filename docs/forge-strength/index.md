@@ -7,7 +7,7 @@ permalink: /forge-strength/
 # Forge Strength — Privacy Policy
 
 **Effective date:** 7 October 2026  
-**Contact:** support@clam.app (placeholder — replace with your public support address before App Store submission)
+**Contact:** support@clam.app
 
 ## What Forge is
 Forge Strength is a strength-training companion for iPhone and Apple Watch. Workouts, plans and progress are stored on your device. There is no Forge account and no Forge-operated server.
