@@ -10,7 +10,7 @@ permalink: /little-atlas/
 **Contact:** support@clam.app
 
 ## What Little Atlas is
-Little Atlas is an offline family explorer for curated activities and nursing-room listings in selected cities (currently Shanghai, Hong Kong, Shenzhen and Calgary). Catalog data and photos ship inside the app.
+Little Atlas is an offline family explorer for curated activities and nursing-room listings in Calgary. Catalog data and photos ship inside the app.
 
 ## Location
 When you tap **Near me**, the app uses Core Location (while in use) to sort places by distance. Coordinates are processed on device and are not sent to a Little Atlas server. There is no Little Atlas backend in this build.
