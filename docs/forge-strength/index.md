@@ -6,7 +6,7 @@ permalink: /forge-strength/
 
 # Forge Strength — Privacy Policy
 
-**Effective date:** 7 October 2026  
+**Effective date:** 9 October 2026  
 **Contact:** support@clam.app
 
 ## What Forge is
@@ -22,6 +22,9 @@ Forge Strength is a strength-training companion for iPhone and Apple Watch. Work
 - **iCloud Key-Value Storage (opt-in):** sync plan *templates* only — not set logs or sensor readings
 
 Forge never uploads Health or workout data to an app-operated backend.
+
+## In-app purchases
+Forge offers an optional one-time in-app purchase, Forge Plus. In-app purchases are processed by Apple through the App Store. No payment information (such as card details or billing address) reaches us. Whether Forge Plus is unlocked is checked on your device through Apple’s StoreKit. We do not collect or store purchase data.
 
 ## Tracking and ads
 Forge does not track you across apps or websites, does not show ads, and does not use advertising identifiers.
